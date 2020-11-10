@@ -1,6 +1,6 @@
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
+Hello everyone! I'm Maisha.
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -76,4 +76,4 @@ public class GUILogIn implements ActionListener {
 
 }
 
-Hello everyone! I'm Maisha.
+
